@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b0ed11d69c6ff278","type":"file","file":"Python/Qué es python.md","x":-860,"y":-460,"width":777,"height":720},
+		{"id":"848b3b9dd1783abe","type":"text","text":"## Funcionamiento de None\n\nAlgunos aspectos importantes de `None` son:\n\n- `None` no es lo mismo que `False`\n- `None` no es lo mismo que 0\n- `None` no es un string vacio\n- Comparar `None` con cualquier otra cosa devuelve `False` excepto con `None`","x":-547,"y":300,"width":464,"height":280},
+		{"id":"34b0fa57a0f98294","type":"file","file":"Python/Decorators.md","x":-40,"y":-460,"width":1020,"height":870},
+		{"id":"996b2377de7079d6","type":"file","file":"Python/Ejemplo Decorators en python.md","x":1060,"y":-460,"width":960,"height":870}
+	],
+	"edges":[
+		{"id":"bb5f43ffeeb64d50","fromNode":"34b0fa57a0f98294","fromSide":"right","toNode":"996b2377de7079d6","toSide":"left"}
+	]
+}

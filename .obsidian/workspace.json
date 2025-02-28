@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "8ed37f0ad8a1f39d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1dd3f79c8f0a059a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19005ce5566b195c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Programming/AI/Funciones de activacion.canvas",
+                "viewState": {
+                  "x": -160,
+                  "y": -913,
+                  "zoom": -1.4768680284994449
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Funciones de activacion"
+            }
+          },
+          {
+            "id": "1871d8e7ec2b4160",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "13758df5459bba54",
+    "type": "split",
+    "children": [
+      {
+        "id": "15b56b7b04e015d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "daebcd83a63fc5b3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "edec6e7621e2a2ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "0828e5ff3059c5f2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 234.5
+  },
+  "right": {
+    "id": "93325f8651169eff",
+    "type": "split",
+    "children": [
+      {
+        "id": "03c66d6050544c91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e40810610c0d4e65",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programming/Notación Big(O).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Notación Big(O)"
+            }
+          },
+          {
+            "id": "b7d1f2177f71b85e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Programming/Notación Big(O).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Notación Big(O)"
+            }
+          },
+          {
+            "id": "cd6697452f143514",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "b7279aa9ce725d48",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Programming/Notación Big(O).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Notación Big(O)"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "1871d8e7ec2b4160",
+  "lastOpenFiles": [
+    "Programming/Arbol binario.md",
+    "Programming/AI/Funciones de activacion.canvas",
+    "Programming/AI/Perceptron.md",
+    "Funciones.md",
+    "función de activación.md",
+    "Python/Decorators.md",
+    "Images/Pasted image 20250209123840.png",
+    "Python/Python.canvas",
+    "Python/Qué es python.md",
+    "Programming/Notación Big(O).md",
+    "Python/Ejemplo Decorators en python.md",
+    "Programming/AI",
+    "Decorators.md",
+    "Deco.md",
+    "Ejemplo Sencillo.md",
+    "Desvanecimiento del Gradiente.md",
+    "Images/Pasted image 20250131124824.png",
+    "Images/Pasted image 20250131123546.png",
+    "Programming/Funciones de activacion/Función ReLU.md",
+    "Programming/Drawing 2025-01-31 12.26.50.excalidraw.md",
+    "Programming/Funciones de activacion",
+    "Programming/Untitled Kanban.md",
+    "Images/Pasted image 20250130210653.png",
+    "Images",
+    "Programming",
+    "Python/Untitled Kanban.md",
+    "Python",
+    "Nueva prueba.md",
+    "Testing/Probando remote sync.md",
+    "Testing",
+    "2025-01-30.md",
+    "python.md",
+    "Sin título 1.canvas",
+    "Test/nueva carpeta/Cosas de ruby.md",
+    "Test/Untitled Kanban.md",
+    "Test/index.canvas",
+    "Test/Que pedo con esto.md",
+    "Test/nueva carpeta",
+    "Test/2025-W05.md",
+    "first card.md",
+    "Tesrt/kanban",
+    "Tesrt/Excalidraw",
+    "Test"
+  ]
+}
