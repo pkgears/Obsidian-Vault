@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "47978e035dbeee6b",
+        "id": "72435c356e3dd846",
         "type": "tabs",
         "children": [
           {
-            "id": "d2fa4ba153d59871",
+            "id": "06f2d24e7bdf7c9f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -90,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Diagram.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Untitled Diagram"
+              "title": "Enlaces entrantes"
             }
           },
           {
@@ -109,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled Diagram.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Untitled Diagram"
+              "title": "Enlaces salientes"
             }
           },
           {
@@ -138,13 +140,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled Diagram.svg",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Untitled Diagram"
+              "title": "Esquema"
             }
           },
           {
@@ -168,7 +169,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -187,11 +188,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2ce68d4753bd52c0",
+  "active": "06f2d24e7bdf7c9f",
   "lastOpenFiles": [
+    "Images/Pasted image 20250415125236.png",
     "Programming/AI/Qué es el Machine Learning.md",
     "Excalidraw/Drawing 2025-04-15 12.38.22.excalidraw.md",
-    "Images/Pasted image 20250415125236.png",
     "Programming/AI/Untitled Diagram.svg",
     "Untitled Diagram.svg",
     "Excalidraw",
