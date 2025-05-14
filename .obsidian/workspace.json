@@ -11,14 +11,15 @@
             "id": "6f6b51d16c9140ca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Python/Qué es python.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Programming/AI/¿Qué es el Deep Learning?.md",
+                "bFile": "Programming/AI/¿Qué es el Deep Learning?.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Qué es python"
+              "icon": "diff",
+              "title": "Diff: ¿Qué es el Deep Learning?"
             }
           }
         ]
@@ -94,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Qué es python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Qué es python"
+              "title": "Enlaces entrantes"
             }
           },
           {
@@ -113,12 +113,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Qué es python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Qué es python"
+              "title": "Enlaces salientes"
             }
           },
           {
@@ -142,13 +141,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Qué es python.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Qué es python"
+              "title": "Esquema"
             }
           },
           {
@@ -191,8 +189,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "aec7fc68b76c01ba",
+  "active": "6f6b51d16c9140ca",
   "lastOpenFiles": [
+    "Python/Qué es python.md",
     "Programming/AI/¿Qué es el Deep Learning?.md",
     "Excalidraw/Drawing 2025-05-13 18.54.14.excalidraw.md",
     "Captura de pantalla 2025-05-13 a la(s) 7.01.52 p.m..png",
@@ -208,7 +207,6 @@
     "Python/Decorators.md",
     "Python/Ejemplo Decorators en python.md",
     "Python/Python.canvas",
-    "Python/Qué es python.md",
     "Images/Pasted image 20250209123840.png",
     "Images/Pasted image 20250131124824.png",
     "Images/Pasted image 20250131123546.png",
