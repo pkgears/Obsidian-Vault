@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "72435c356e3dd846",
+        "id": "2ab9d28f7e1422ad",
         "type": "tabs",
         "children": [
           {
-            "id": "06f2d24e7bdf7c9f",
+            "id": "db5dc1ad3c55a73c",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
+                "aFile": "Python/Qué es python.md",
+                "bFile": "Python/Qué es python.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: workspace.json"
+              "title": "Diff: Qué es python"
+            }
+          },
+          {
+            "id": "88679ff94048d8ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/AI/Qué es el Machine Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Qué es el Machine Learning"
             }
           }
         ]
@@ -94,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled Diagram.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de Untitled Diagram"
             }
           },
           {
@@ -112,11 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled Diagram.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes"
+              "title": "Enlaces salientes de Untitled Diagram"
             }
           },
           {
@@ -140,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Untitled Diagram.svg",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Esquema de Untitled Diagram"
             }
           },
           {
@@ -188,20 +205,29 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "06f2d24e7bdf7c9f",
+  "active": "aec7fc68b76c01ba",
   "lastOpenFiles": [
-    "Images/Pasted image 20250415125236.png",
+    "conflict-files-obsidian-git.md",
     "Programming/AI/Qué es el Machine Learning.md",
+    "Programming/AI/Funciones de activacion.canvas",
+    "Programming/Notación Big(O).md",
+    "Programming/Arbol binario.md",
+    "Python/Decorators.md",
+    "Python/Ejemplo Decorators en python.md",
+    "Python/Python.canvas",
+    "Python/Qué es python.md",
+    "Images/Pasted image 20250415125236.png",
+    "Images/Pasted image 20250209123840.png",
+    "Images/Pasted image 20250131124824.png",
+    "Images/Pasted image 20250131123546.png",
+    "Images/Pasted image 20250130210653.png",
     "Excalidraw/Drawing 2025-04-15 12.38.22.excalidraw.md",
     "Programming/AI/Untitled Diagram.svg",
     "Untitled Diagram.svg",
     "Excalidraw",
-    "Python/Decorators.md",
     "Sin título.md",
-    "Programming/AI/Funciones de activacion.canvas",
     "Programming/AI/Perceptron.md",
     "Programming/AI/Sin nombre",
-    "Python/Qué es python.md",
     "Esta es una prueba desde android.md",
     "obsidian-config/plugins/nldates-obsidian/main.js",
     "obsidian-config/plugins/nldates-obsidian/manifest.json",
@@ -212,30 +238,21 @@
     "obsidian-config/plugins/calendar",
     "obsidian-config/plugins/auto-note-mover/data.json",
     "obsidian-config/icons/font-awesome-brands/Python.svg",
-    "Programming/Arbol binario.md",
     "Funciones.md",
     "función de activación.md",
-    "Images/Pasted image 20250209123840.png",
-    "Python/Python.canvas",
-    "Programming/Notación Big(O).md",
-    "Python/Ejemplo Decorators en python.md",
     "Decorators.md",
     "Deco.md",
     "Ejemplo Sencillo.md",
     "Desvanecimiento del Gradiente.md",
-    "Images/Pasted image 20250131124824.png",
-    "Images/Pasted image 20250131123546.png",
     "Programming/Funciones de activacion/Función ReLU.md",
     "Programming/Drawing 2025-01-31 12.26.50.excalidraw.md",
     "Programming/Untitled Kanban.md",
-    "Images/Pasted image 20250130210653.png",
     "Python/Untitled Kanban.md",
     "Nueva prueba.md",
     "Testing/Probando remote sync.md",
     "2025-01-30.md",
     "python.md",
     "Sin título 1.canvas",
-    "Test/nueva carpeta/Cosas de ruby.md",
     "Test/index.canvas"
   ]
 }
