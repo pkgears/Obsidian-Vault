@@ -4,22 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "98cfa14e4c0de4a6",
+        "id": "7fe2f75fe9033f13",
         "type": "tabs",
         "children": [
           {
-            "id": "6f6b51d16c9140ca",
+            "id": "c9b496020a04cf16",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "image",
               "state": {
-                "aFile": "Programming/AI/¿Qué es el Deep Learning?.md",
-                "bFile": "Programming/AI/¿Qué es el Deep Learning?.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "Images/Captura de pantalla 2025-05-13 a la(s) 7.01.52 p.m..png"
               },
-              "icon": "diff",
-              "title": "Diff: ¿Qué es el Deep Learning?"
+              "icon": "lucide-image",
+              "title": "Captura de pantalla 2025-05-13 a la(s) 7.01.52 p.m."
             }
           }
         ]
@@ -95,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Images/Captura de pantalla 2025-05-13 a la(s) 7.01.52 p.m..png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de Captura de pantalla 2025-05-13 a la(s) 7.01.52 p.m."
             }
           },
           {
@@ -113,11 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Images/Captura de pantalla 2025-05-13 a la(s) 7.01.52 p.m..png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes"
+              "title": "Enlaces salientes de Captura de pantalla 2025-05-13 a la(s) 7.01.52 p.m."
             }
           },
           {
@@ -141,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Images/Captura de pantalla 2025-05-13 a la(s) 7.01.52 p.m..png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Esquema de Captura de pantalla 2025-05-13 a la(s) 7.01.52 p.m."
             }
           },
           {
@@ -189,12 +189,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6f6b51d16c9140ca",
+  "active": "aec7fc68b76c01ba",
   "lastOpenFiles": [
+    "Images/Captura de pantalla 2025-05-13 a la(s) 7.01.52 p.m..png",
     "Python/Qué es python.md",
     "Programming/AI/¿Qué es el Deep Learning?.md",
     "Excalidraw/Drawing 2025-05-13 18.54.14.excalidraw.md",
-    "Captura de pantalla 2025-05-13 a la(s) 7.01.52 p.m..png",
     "Images/Captura de pantalla 2025-05-13 a la(s) 6.56.09 p.m..png",
     "Images/Captura de pantalla 2025-05-13 a la(s) 6.49.38 p.m..png",
     "Images/Pasted image 20250415125236.png",
