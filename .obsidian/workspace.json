@@ -13,12 +13,13 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "Python/Qué es python.md",
-                "bFile": "Python/Qué es python.md",
-                "aRef": ""
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": "HEAD",
+                "bRef": ""
               },
               "icon": "diff",
-              "title": "Diff: Qué es python"
+              "title": "Diff: workspace.json"
             }
           },
           {
@@ -205,7 +206,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "aec7fc68b76c01ba",
+  "active": "db5dc1ad3c55a73c",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Programming/AI/Qué es el Machine Learning.md",
