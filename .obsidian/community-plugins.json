@@ -8,5 +8,7 @@
   "obsidian-git",
   "github-copilot",
   "drawio-obsidian",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "image-converter",
+  "cmenu-plugin"
 ]

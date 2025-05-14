@@ -1,5 +1,8 @@
 {
   "cssTheme": "Obsidian Nord",
   "accentColor": "#0c14ed",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "image_align"
+  ]
 }
